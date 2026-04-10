@@ -1,0 +1,6 @@
+numpy==1.26.4
+opencv-python==4.10.0.84
+onnxruntime==1.18.1
+mediapipe==0.10.14
+ultralytics==8.2.103
+streamlit>=1.28.0
